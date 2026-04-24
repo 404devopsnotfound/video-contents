@@ -1,3 +1,3 @@
-## CONTEÚDO DOS VÍDEOS DO CANAL
+## CONTENT OF THE CHANNEL'S VIDEOS
 
 https://www.youtube.com/@404devopsnotfound

@@ -1,6 +1,6 @@
 # DETALHES EM PORTUGUÊS
 
-## TÍTULO DO VIDEO - pt_br
+## TÍTULO DO VÍDEO - pt_br
 KVM no Linux: Instalação, Configuração e Gerenciamento - EP01
 
 ## LINK DO VÍDEO - pt_br

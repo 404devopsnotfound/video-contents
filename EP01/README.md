@@ -6,8 +6,9 @@ KVM no Linux: Instalação, Configuração e Gerenciamento - EP01
 ## LINK DO VÍDEO - pt_br
 [https://youtu.be/ABTP8XVhZa4](https://youtu.be/ABTP8XVhZa4)
 
-
-
+#
+#
+#
 
 # DETAILS IN ENGLISH
 
